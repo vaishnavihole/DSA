@@ -17,7 +17,7 @@
 //    cout<<marks[2]<<endl;
 //    cout<<marks[3]<<endl;
 //    return 0;
-// }
+// // }
 
 
 // ###### Using Loop #######
@@ -38,4 +38,28 @@
 //    }
 //    return 0;
 // }
+
+// ####### Sum of array element ########
+
+// #include<iostream>
+// using namespace std;
+// int main()
+//    {
+//        int runs[5] = {15, 47, 30, 7, 19};
+       
+//        int sum = 0;
+       
+//        for (int i=0; i<5; i++)
+//        {
+//            sum = sum + runs[i];
+//        }
+       
+//        cout<<"Total Runs:"<<sum;
+   
+//    return 0;
+// }
+
+
+//###### Largest Element Of An Array #######
+
 
