@@ -20,46 +20,37 @@
 // // }
 
 
-// ###### Using Loop #######
+// ####### Print Given Array using loop #######
+
+// using namespace std;
 
 // int main()
 // {
-//    int marks[4];
+//    int students[5] = {2, 3, 14, 12, 7};
    
-//    for(int i=0; i<4; i++)
-//    {
-//       cout<<"Enter value for index"<<i<<":";
-//       cin>>marks[i];
-//    }
-   
-//    for (int i=0; i<4; i++)
-//    {
-//       cout<<marks[i]<<endl;
+//    for(int i=0; i<=4; i++) {
+//        cout<<students[i] << endl;
 //    }
 //    return 0;
+    
 // }
 
-// ####### Sum of array element ########
 
-// #include<iostream>
+
+// ####### Print Given Array in reversrusing loop #######
+
 // using namespace std;
+
 // int main()
-//    {
-//        int runs[5] = {15, 47, 30, 7, 19};
-       
-//        int sum = 0;
-       
-//        for (int i=0; i<5; i++)
-//        {
-//            sum = sum + runs[i];
-//        }
-       
-//        cout<<"Total Runs:"<<sum;
+// {
+//    int students[5] = {2, 3, 14, 12, 7};
    
-//    return 0;
+//    for(int i=4; i>=0; i--) {
+//        cout<<students[i] << endl;
+//    }
+//    return 0;  
 // }
 
 
-//###### Largest Element Of An Array #######
 
-
+// ####### Removing array element ########
