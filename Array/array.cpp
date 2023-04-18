@@ -54,3 +54,32 @@
 
 
 // ####### Removing array element ########
+
+// #include<iostream>
+
+// using namespace std;
+
+// int main()
+// {
+//     int arr[50];
+    
+//     int size;
+//     cout<<"How many element you want to store?:";
+//     cin>>size;
+    
+//     for(int i=0;i=size; i++)
+//     {
+//         cout<<"Enter value for index"<<i<<": ";
+//         cin>>arr[i];
+//     }
+    
+//      cout<<"Array element are: ";
+//      for(int i=0; i<size; i++)
+//      {
+//          cout<<arr[i]<<",";
+//      }
+    
+//     return 0;
+    
+// }
+
