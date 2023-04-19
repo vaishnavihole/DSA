@@ -73,11 +73,27 @@
 //         cin>>arr[i];
 //     }
     
-//      cout<<"Array element are: ";
+//      cout<<"Before Delection: ";
 //      for(int i=0; i<size; i++)
 //      {
 //          cout<<arr[i]<<",";
 //      }
+     
+//      int index;
+//      cout<<"At what position you want remove element:";
+//      cin>>index;
+     
+//      for(int i=index; i<size-1; i++){
+//          arr[i] = arr[i+1];
+//      }
+//      size--;
+     
+//      cout<<"After Delection: ";
+//      for(int i=0; i<size; i++)
+//      {
+//          cout<<arr[i]<<",";
+//      }
+     
     
 //     return 0;
     
