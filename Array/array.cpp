@@ -67,7 +67,7 @@
 //     cout<<"How many element you want to store?:";
 //     cin>>size;
     
-//     for(int i=0;i=size; i++)
+//     for(int i=0;i<size; i++)
 //     {
 //         cout<<"Enter value for index"<<i<<": ";
 //         cin>>arr[i];
@@ -98,4 +98,8 @@
 //     return 0;
     
 // }
+
+
+
+//######## Linear Search ########
 
